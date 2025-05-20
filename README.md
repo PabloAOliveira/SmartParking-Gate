@@ -1,4 +1,4 @@
-# 🚗 SmartEntry – Sistema de Controle de Cancela com RabbitMQ e IoT
+# 🚗 SmartParking-Gate – Sistema de Controle de Cancela
 
 Este projeto simula um sistema inteligente de controle de cancela automatizada para estacionamentos, utilizando **Arduino**, **Raspberry Pi**, **RabbitMQ** e **Python**.
 
